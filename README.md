@@ -1,3 +1,16 @@
+![cloud kitchen](https://github.com/sipher69/Cloud-kitchen-website_Angular/assets/43222112/d2a81c3b-04c7-44e0-bac9-d908d6fe3b13)
+
+![cloud kitchen 2](https://github.com/sipher69/Cloud-kitchen-website_Angular/assets/43222112/6b2b97a2-1f67-4e51-955d-751e7c9f39b2)
+
+![cloud kitchen 3](https://github.com/sipher69/Cloud-kitchen-website_Angular/assets/43222112/35ee7915-c328-4297-92a2-397c71b868df)
+
+![cloud kitchen 4](https://github.com/sipher69/Cloud-kitchen-website_Angular/assets/43222112/9e9caf14-24ea-4aab-ac4a-81c138352159)
+
+![cloud kitchen 5](https://github.com/sipher69/Cloud-kitchen-website_Angular/assets/43222112/9237fea5-c4e5-417d-8627-0dda14a9cb9a)
+
+
+
+
 # Cloudkitchen
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.4.
